@@ -1,0 +1,8 @@
+{application, merqtt,
+ [{description, "merqtt"},
+  {vsn, {cmd, "echo 0.1-`git describe --always --tags`"}},
+  {registered, []},
+  {applications, [kernel,
+                  stdlib]},
+  {mod, {merqtt_app, []}},
+  {env, []}]}.
