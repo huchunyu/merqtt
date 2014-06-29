@@ -1,6 +1,6 @@
 merqtt
 ======
-merqtt is an MQTT broker that full implements the [mqtt 3.1][1] spec.
+merqtt is an MQTT broker that fully implements the [mqtt 3.1][1] spec.
 
 Building
 -----------
